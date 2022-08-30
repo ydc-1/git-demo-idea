@@ -11,6 +11,7 @@ public class demo2 {
         System.out.println("6666666666666688");
         System.out.println("777777777777777777");
         System.out.println("77777777777777777");
+        System.out.println("这个代码新增,推到github上");
     }
 
 }
