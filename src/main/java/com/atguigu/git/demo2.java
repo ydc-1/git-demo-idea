@@ -9,6 +9,7 @@ public class demo2 {
         System.out.println("6666666666666677");
         System.out.println("6666666666666688");
         System.out.println("777777777777777777");
+        System.out.println("888888888");
     }
 
 }
